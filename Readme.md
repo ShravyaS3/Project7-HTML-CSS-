@@ -10,7 +10,7 @@
 # Learnings from this project:
 
 - Gained good knowledge on CSS POSITIONS.
--Learnt about Z-index property.
+- Learnt about Z-index property.
 
 ## Time taken: 3hour
 
