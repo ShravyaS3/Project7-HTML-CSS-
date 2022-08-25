@@ -15,3 +15,7 @@
 ## Time taken: 3hour
 
 [Web Page:Live-Link](https://project7-htmlcss.netlify.app/)
+
+# Thumbnail:
+
+![Thumbnail](./thumbnail.png)
